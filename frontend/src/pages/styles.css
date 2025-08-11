@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+.topbar { display:flex; justify-content:space-between; padding:10px 20px; background:#222; color:white; align-items:center;}
+.topbar a { color: white; text-decoration:none; margin-right:12px;}
+.topbar nav a, .topbar button { color:white; }
+textarea { width:100%; }
